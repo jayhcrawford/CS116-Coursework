@@ -6,6 +6,8 @@
 /*
 Relevant discoveries:
 
+My preferred reference is cppreference.com
+
 If Visual Studio is telling you that it cannot locate an executable file, that likely means that your source code did not compile.
 
 getch() (conio.h, for consoleIO functions) is a deprecated command name;
